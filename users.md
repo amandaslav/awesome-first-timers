@@ -497,3 +497,8 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+  
+ - Name: Amanda Slavinsky  
+   Place: Michigan, United States 
+   Bio: Web Development Student  
+   Github: [amandaslav](https://github.com/amandaslav)  
